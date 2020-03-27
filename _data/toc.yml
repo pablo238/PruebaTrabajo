@@ -21,12 +21,9 @@
 #
 # See the links below for an example.
 
-# Add a header and sample content section
-- header: Trabajo 2 TAE
-
 # A chapter w/ a collection of sections beneath it
 - title: Ejercicios
   url: /Trabajo
-  not_numbered: false
+  not_numbered: true
 
 
